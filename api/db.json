@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "This stream ",
+      "description": "is lit",
+      "id": 1
+    },
+    {
+      "title": "asdf",
+      "description": "fdsd",
+      "id": 3
+    },
+    {
+      "title": "Hello",
+      "description": "What updawg",
+      "id": 4
+    },
+    {
+      "title": "Test stream change ",
+      "description": "Testing right here changing",
+      "userId": "116604006402187214822",
+      "id": 5
+    },
+    {
+      "title": "a",
+      "description": "sdf",
+      "userId": "116604006402187214822",
+      "id": 6
+    }
+  ]
+}
